@@ -1,4 +1,10 @@
-
+js/
+css/
+image/
+vendor/
 node_modules
 upload
 upload/ss.png
+common.css
+head.css
+index2.html
